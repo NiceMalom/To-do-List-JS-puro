@@ -39,7 +39,7 @@ O projeto foi desenvolvido utilizando apenas tecnologias web nativas:
 
 * **HTML5:** Estruturação da página, campos de entrada e botões.
 * **JavaScript (ES6):** Lógica da aplicação, manipulação do DOM e gerenciamento do estado da lista.
-* **Web Storage (LocalStorage):** Persistência local dos dados em formato JSON e depois convertida.
+* **Web Storage (LocalStorage):** Persistência local dos dados em formato JSON e depois convertida para dados do JS.
 
 ---
 
