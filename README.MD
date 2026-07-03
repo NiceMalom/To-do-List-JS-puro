@@ -1,6 +1,6 @@
 # [Nome do Projeto, ex: To-Do List App]
 
-> Uma aplicação simples e intuitiva de Lista de Tarefas desenvolvida com JavaScript Vanilla, focada no gerenciamento de atividades diárias com persistência de dados local.
+> Uma aplicação simples de Lista de Tarefas desenvolvida com JavaScript Puro, focada no gerenciamento de atividades diárias com salvamento de dados local.
 
 ---
 
@@ -19,7 +19,7 @@
 
 Este projeto é uma aplicação web de **Lista de Tarefas** que permite ao usuário gerenciar seus afazeres de forma dinâmica. A aplicação salva as tarefas diretamente no navegador, garantindo que os dados não sejam perdidos mesmo após fechar ou atualizar a página.
 
-Ideal para estudos de manipulação do DOM (Document Object Model) e persistência de dados com Web Storage.
+Bom para aprender manipulação do DOM (Document Object Model) e guardar dados com Web Storage, acessando o Local Storage.
 
 ---
 
@@ -39,7 +39,7 @@ O projeto foi desenvolvido utilizando apenas tecnologias web nativas:
 
 * **HTML5:** Estruturação da página, campos de entrada e botões.
 * **JavaScript (ES6):** Lógica da aplicação, manipulação do DOM e gerenciamento do estado da lista.
-* **Web Storage (LocalStorage):** Persistência local dos dados em formato JSON.
+* **Web Storage (LocalStorage):** Persistência local dos dados em formato JSON e depois convertida.
 
 ---
 
